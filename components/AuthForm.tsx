@@ -87,7 +87,7 @@ const AuthForm = ({ type }: { type: FormType }) => {
     <div className="card-border lg:min-w-[566px]">
       <div className="flex flex-col card gap-6 py-14 px-10">
         <div className="flex flex-row gap-2 justify-center">
-          <Image src="/logo_0.svg" alt="logo" width={38} height={32} />
+          <Image src="/Logo_0.svg" alt="logo" width={38} height={32} />
           <h2 className="text-primary-100">FaizTalk</h2>
         </div>
         <div className="flex flex-col gap-1">
